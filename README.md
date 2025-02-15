@@ -53,13 +53,3 @@ https://www.kaggle.com/nelakurthisudheer/mall-customer-segmentation
 
 
 
-![Screenshot from 2023-08-11 11-50-28](https://github.com/devotuoma/Mall-Customers-Segmentation/assets/94548340/e8737a25-ae20-4109-854e-a7da1b774fe8)
-
-
-
-![Screenshot from 2023-08-11 11-51-09](https://github.com/devotuoma/Mall-Customers-Segmentation/assets/94548340/b38f7cd1-5557-4b4d-b456-b87bbf281bd6)
-
-
-![Screenshot from 2023-08-11 11-51-23](https://github.com/devotuoma/Mall-Customers-Segmentation/assets/94548340/fc2e37a7-8b06-44d7-b6b0-e055b9020960)
-
-![Screenshot from 2023-08-11 11-51-43](https://github.com/devotuoma/Mall-Customers-Segmentation/assets/94548340/16c0aaf8-01d0-4242-834c-718dae41ce63)
